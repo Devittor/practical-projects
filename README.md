@@ -1,6 +1,15 @@
-# practical-projects
+# Practical Projects
 
 This is a *Monorepo* of all my practical projects
+
+#### 🌌 Best projects: ####
+
+#### 💻 Other projects: ####
+
+- <a href="https://github.com/Devittor/practical-projects/tree/main/bestapp">BestApp</a>
+- <a href="https://github.com/Devittor/practical-projects/tree/main/lantern">Lantern</a>
+- <a href="https://github.com/Devittor/practical-projects/tree/main/parallax-effect">Parallax Effect</a>
+- <a href="https://github.com/Devittor/practical-projects/tree/main/world-wide-recipe">World Wide Recipe</a>
 
 #### 🔍 Contact me on: ####
 <div>

@@ -23,6 +23,12 @@ The ***World Wide Recipe*** project is landing page of a chef who wants to promo
     <img src="./screenshots/footer_small-screen.jpg" alt="hfooter of the page on small screens" width="200">
 </div>
 
+<div align="center">
+  <a href="https://github.com/Devittor/practical-projects/tree/main/bestapp">
+    <strong>↩ Back to home</strong>
+  </a>
+</div>
+
 #### 🔍 Contact me on: ####
 <div>
   <a href="https://www.instagram.com/jvittorgomes/" target="_blank">

@@ -8,6 +8,12 @@ Mini project of a lantern effect
 
 <img src="https://skills.thijs.gg/icons?i=html,css,scss,js" alt="Technologies" height="50"/>
 
+<div align="center">
+  <a href="https://github.com/Devittor/practical-projects/tree/main/bestapp">
+    <strong>↩ Back to home</strong>
+  </a>
+</div>
+
 #### 🔍 Contact me on: ####
 <div>
   <a href="https://www.instagram.com/jvittorgomes/" target="_blank">

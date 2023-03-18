@@ -27,6 +27,12 @@ The ***BestApp*** project was my first front-end project, which consists of a pr
     <img src="./screenshots/contact_small-screen.jpg" alt="home page section on small screens" width="200">
 </div>
 
+<div align="center">
+  <a href="https://github.com/Devittor/practical-projects/tree/main/bestapp">
+    <strong>↩ Back to home</strong>
+  </a>
+</div>
+
 #### 🔍 Contact me on: ####
 <div>
   <a href="https://www.instagram.com/jvittorgomes/" target="_blank">
