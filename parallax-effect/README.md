@@ -1,6 +1,12 @@
-# practical-projects
+# 🛸 Parallax Effect 🛸
 
-This is a *Monorepo* of all my practical projects
+#### Description: ####
+
+Mini project to learn the parallax effect
+
+#### Technologies used: ####
+
+<img src="https://skills.thijs.gg/icons?i=html,css,scss,js" alt="Technologies" height="50"/>
 
 #### 🔍 Contact me on: ####
 <div>

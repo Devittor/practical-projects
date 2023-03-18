@@ -1,0 +1,116 @@
+@import './abstract/reset';
+
+body {
+    min-height: 100vh;
+    background-color: #000201;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+    
+    &-track {
+        background: #171717;
+    }
+    
+    &-thumb {
+        border: 2px solid #171717;
+        width: 10px;
+        background: #6c36d9;
+        border-radius: .4rem;
+    }
+}
+
+.background {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    
+    > div {
+        position: fixed;
+        top: -30px;
+        left: -30px;
+        height: calc(100% + 60px);
+        width: calc(100% + 60px);
+        background-size: cover !important;
+
+        &:nth-child(1) {
+            background: url('../../assets/svg/stars_bg_1_svg.svg') no-repeat center center;
+        }
+        &:nth-child(2) {
+            background: url('../../assets/svg/stars_bg_2_svg.svg') no-repeat center center;
+        }
+        &:nth-child(3) {
+            background: url('../../assets/svg/stars_bg_3_svg.svg') no-repeat center center;
+        }
+        &:nth-child(4) {
+            background: url('../../assets/svg/planets_bg_1_svg.svg') no-repeat center center;
+        }
+        &:nth-child(5) {
+            background: url('../../assets/svg/planets_bg_2_svg.svg') no-repeat center center;
+        }
+        &:nth-child(6) {
+            background: url('../../assets/svg/planets_bg_3_svg.svg') no-repeat center center;
+        }
+    }
+}
+
+.app {
+    position: relative;
+    z-index: 1;
+
+    > header {
+        position: fixed;
+        top: 0;
+        width: 100%;
+        height: 60px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 0 max(2vw, 16px);
+
+        .logo {
+            display: block;
+            height: max(2vw, 26px);
+        }
+    }
+    
+    main {
+        padding-top: 60px;
+
+        > .home {
+            height: calc(100vh - 60px);
+            flex-direction: column;
+            padding: 0 4vw;
+            display: flex;
+            justify-content: center;
+
+            > h1 {
+                color: #e3e3e3;
+                text-shadow: 2px 2px 0px #6c36d9;
+                font-size: calc(1.2rem + 1.2vw);
+                font-weight: 700;
+                margin-bottom: 16px;
+            
+                &::before {
+                    content: '<';
+                    padding: 0 2px;
+                    display: inline-block;
+                    margin-right: 6px;
+                    color: #6c36d9;
+                    text-shadow: 2px 2px 0px #e3e3e3;
+                }
+
+                &::after {
+                    content: '/>';
+                    padding: 0 2px;
+                    display: inline-block;
+                    margin-left: 6px;
+                    color: #6c36d9;
+                    text-shadow: 2px 2px 0px #e3e3e3;
+                }
+            }
+        }
+    }
+}

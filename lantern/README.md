@@ -1,6 +1,12 @@
-# practical-projects
+# 🔦 Lantern 🔦
 
-This is a *Monorepo* of all my practical projects
+#### Description: ####
+
+Mini project of a lantern effect
+
+#### Technologies used: ####
+
+<img src="https://skills.thijs.gg/icons?i=html,css,scss,js" alt="Technologies" height="50"/>
 
 #### 🔍 Contact me on: ####
 <div>

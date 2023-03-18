@@ -1,0 +1,55 @@
+@import './abstract/reset';
+@import './abstract/variables';
+
+:root {
+    --cursorX: 50vw;
+    --cursorY: 50vh;
+  }
+
+body {
+    min-height: 100vh;
+    background-color: $bg;
+}
+
+.shadow {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: $cinder;
+
+    > header {
+        position: fixed;
+        top: 0;
+        width: 100%;
+        height: 60px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 0 max(2vw, 16px);
+    
+        .logo {
+            display: block;
+            height: max(2vw, 26px);
+        }
+    }
+
+    > h1 {
+        color: $tropicalBlue;
+        text-shadow: 1px 1px 2px $cinder;
+        font-size: 3rem;
+        font-weight: 700;
+
+        > span {
+            color: $cinder;
+        }
+    }
+    
+    &:hover {
+        background: radial-gradient(circle 200px at var(--cursorX) var(--cursorY), transparent 0%, transparent 50%, $cinder 51%);
+    }
+}
