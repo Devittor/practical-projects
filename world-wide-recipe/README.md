@@ -24,7 +24,7 @@ The ***World Wide Recipe*** project is landing page of a chef who wants to promo
 </div>
 
 <div align="center">
-  <a href="https://github.com/Devittor/practical-projects/tree/main/bestapp">
+  <a href="https://github.com/Devittor/practical-projects">
     <strong>↩ Back to home</strong>
   </a>
 </div>

@@ -28,7 +28,7 @@ The ***BestApp*** project was my first front-end project, which consists of a pr
 </div>
 
 <div align="center">
-  <a href="https://github.com/Devittor/practical-projects/tree/main/bestapp">
+  <a href="https://github.com/Devittor/practical-projects">
     <strong>↩ Back to home</strong>
   </a>
 </div>
