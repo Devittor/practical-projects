@@ -16,7 +16,9 @@ Mini project to learn the parallax effect
 
 #### 🚀 See working: ####
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDlkMjRmNGUyMzUwYWI2MGM0NmUzZTgxOWIxNGZkNGUxMTlmZGU3ZiZjdD1n/p9aLKSWfkL6hbkEynf/giphy.gif"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDlkMjRmNGUyMzUwYWI2MGM0NmUzZTgxOWIxNGZkNGUxMTlmZGU3ZiZjdD1n/p9aLKSWfkL6hbkEynf/giphy.gif"/>
+</div>
 
 #### 🔍 Contact me on: ####
 <div>
