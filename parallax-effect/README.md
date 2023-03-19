@@ -4,7 +4,7 @@
 
 Mini project to learn the parallax effect
 
-#### Technologies used: ####
+#### 🔧 Technologies used: ####
 
 <img src="https://skills.thijs.gg/icons?i=html,css,scss,js" alt="Technologies" height="50"/>
 
@@ -13,6 +13,10 @@ Mini project to learn the parallax effect
     <strong>↩ Back to home</strong>
   </a>
 </div>
+
+#### 🚀 See working: ####
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDlkMjRmNGUyMzUwYWI2MGM0NmUzZTgxOWIxNGZkNGUxMTlmZGU3ZiZjdD1n/p9aLKSWfkL6hbkEynf/giphy.gif"/>
 
 #### 🔍 Contact me on: ####
 <div>
