@@ -8,16 +8,16 @@ Mini project to learn the parallax effect
 
 <img src="https://skills.thijs.gg/icons?i=html,css,scss,js" alt="Technologies" height="50"/>
 
-<div align="center">
-  <a href="https://github.com/Devittor/practical-projects">
-    <strong>↩ Back to home</strong>
-  </a>
-</div>
-
 #### 🚀 See working: ####
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDlkMjRmNGUyMzUwYWI2MGM0NmUzZTgxOWIxNGZkNGUxMTlmZGU3ZiZjdD1n/p9aLKSWfkL6hbkEynf/giphy.gif"/>
+</div>
+
+<div align="center">
+  <a href="https://github.com/Devittor/practical-projects">
+    <strong>↩ Back to home</strong>
+  </a>
 </div>
 
 #### 🔍 Contact me on: ####

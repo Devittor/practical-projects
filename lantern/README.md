@@ -4,9 +4,15 @@
 
 Mini project of a lantern effect
 
-#### Technologies used: ####
+#### 🔧 Technologies used: ####
 
 <img src="https://skills.thijs.gg/icons?i=html,css,scss,js" alt="Technologies" height="50"/>
+
+#### 🚀 See working: ####
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWVjZTk2NmM4NzVmNWUwNTc1YTA4MDQ4MzE4NDIzYTFmMjI3YWE0MSZjdD1n/sTvZPeQ2OaUxSDCgzN/giphy.gif"/>
+</div>
 
 <div align="center">
   <a href="https://github.com/Devittor/practical-projects">
